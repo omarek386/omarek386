@@ -75,7 +75,7 @@
 <br>
 <h2 align="left">Support:</h2>
 <br>
-<p align="center"> <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/omarek386"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/omarek386" /></a><a href="https://ko-fi.com/https://ko-fi.com/omarek386"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/omarek386" /></a></p>
+<p align="center"> <a href="https://buymeacoffee.com/omarek386"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/omarek386" /></a><a href="https://ko-fi.com/omarek386"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/omarek386" /></a></p>
 
 
 
