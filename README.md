@@ -4,7 +4,7 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Software+Developer;I+Use+Arch+BTW!!;Mobile+Applications+Developer&center=true&width=500&height=50"></a>
 </p>
 <p align="center"> <em> <b><i>"---Chicken Thighs with Red Onions---"</i></b> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=omarek386&label=Profile%20views&color=0e75b6&style=flat" alt="sapperberet" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=omarek386&label=Profile%20views&color=0e75b6&style=flat" alt="omarek386" /> </p>
 
 
 
